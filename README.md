@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java program
 - 💞️ I’m looking to collaborate on any Current Coding Projects
 - 📫 How to reach me Sinhadhr@msu.edu
-- 😄 Pronouns: He/Hin
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I dance competitively
 
 <!---
